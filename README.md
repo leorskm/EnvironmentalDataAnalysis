@@ -20,4 +20,4 @@ These datasets were meticulously selected and prepared to ensure relevance and r
    
 4. **Insight Development and Reporting**: The visualizations helped synthesize complex data into actionable insights about the environmental performance of G20 countries, comparing factors like renewable energy consumption, CO2 emissions, and other pollution metrics. We prepared a detailed report, articulating the findings and implications of their analysis.
 
-This project stands as a significant academic exercise in applying data visualization tools to real-world issues, enhancing understanding of global environmental sustainability through the lens of the major economies in the G20. The PowerBI report is attached to this repository as a PowerBI file and a pdf.
+This project stands as a significant academic exercise in applying data visualization tools to real-world issues, enhancing understanding of global environmental sustainability through the lens of the major economies in the G20. The PowerBI report is attached to this repository as a PowerBI file and a pdf, as well as the original dataset used. 
